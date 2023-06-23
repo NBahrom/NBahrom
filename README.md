@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NBahrom
+- 👋 Hi, I’m Rustam
 - 👀 I’m interested in programin languages like js 
 - 🌱 I’m currently learning node.js
 
